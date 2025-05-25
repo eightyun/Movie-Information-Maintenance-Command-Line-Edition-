@@ -1,4 +1,4 @@
-use std::{error::Error, fs, path::{self, PathBuf}};
+use std::{error::Error, fs, path::{PathBuf}};
 
 use regex::Regex;
 use rfd::FileDialog;
